@@ -56,7 +56,7 @@ And clone the repository from GitHub:
 Python Module Installation
 --------------------------
 
-.. note:: Here we use Python 3, instead of the default Python 2. For this reason, all ``pip`` and ``python`` commands need a version postfix ``3`` like below.
+.. note:: Here we use Python 3, instead of the default Python 2. For this reason, all ``pip`` and ``python`` commands need a version suffix ``3`` like below.
 
 Some required Python modules are necessary and will be installed in your uberspace with ``pip3`` and the options ``--user``, ``--upgrade`` and ``--requirement``:
 
